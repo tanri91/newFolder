@@ -4,3 +4,4 @@ haki
 ping
 swim
 snip
+booling
