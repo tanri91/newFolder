@@ -2,4 +2,5 @@ foot
 tenis
 haki
 ping
-swwim
+swim
+snip
