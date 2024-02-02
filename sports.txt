@@ -5,3 +5,4 @@ ping
 swim
 snip
 booling
+zhim
